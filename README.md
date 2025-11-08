@@ -1,5 +1,11 @@
 ﻿# Quote-Generator-API-Integration-Task-1-codetech-
- 🌐 API Integration Task — CODTECH Internship company name: CODTECH IT SOLUTIONS PVT.LTD Name :vishal singh Intern ID:CT04DR343 domain : Full Stack Web Development Durations : 4 weeks Mentor: Neela Santhosh Kumar
+ 🌐 API Integration Task — CODTECH Internship , 
+ company name: CODTECH IT SOLUTIONS PVT.LTD,
+ Name :vishal singh.
+ Intern ID:CT04DR343,
+ domain : Full Stack Web Development,
+ Durations : 4 weeks,
+ Mentor: Neela Santhosh Kumar
 
 Description=# 🌐 API Integration Task — CODTECH Internship
 
@@ -22,5 +28,6 @@ JavaScript (ES6) – API fetching and dynamic content update
 Public API: Quotable API
 ==>
 <img width="1366" height="768" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/fc8e2d97-5728-4aaf-921a-486cd6691db1" />
+
 
 
